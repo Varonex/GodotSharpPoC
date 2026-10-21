@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://ddt78271pw5ki"]
+
+[ext_resource type="Script" uid="uid://dxl6y3qaxkf03" path="res://TestInstantiate/test_instantiate_gd.gd" id="1_20yev"]
+[ext_resource type="PackedScene" uid="uid://bv3swxtupxfc5" path="res://TestInstantiate/t.tscn" id="2_uwf56"]
+
+[node name="GDScript" type="Node" unique_id=108554246]
+script = ExtResource("1_20yev")
+scene = ExtResource("2_uwf56")
+max_iterations = 10000

@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://cg02tatfjgbr8"]
+
+[ext_resource type="Script" uid="uid://mhany2iit0ak" path="res://TestInstantiate/TestInstantiateCS.cs" id="1_62qd0"]
+[ext_resource type="PackedScene" uid="uid://bv3swxtupxfc5" path="res://TestInstantiate/t.tscn" id="2_aimgl"]
+
+[node name="CSharp" type="Node" unique_id=1397911491]
+script = ExtResource("1_62qd0")
+Scene = ExtResource("2_aimgl")
+MaxIterations = 10000

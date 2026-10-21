@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cqgm5x3ompkh1"]
+
+[ext_resource type="Script" uid="uid://b7lkrl8mhpmeb" path="res://TestMarshallArray/test_marshall_array_gd.gd" id="1_o8kc5"]
+
+[node name="GDScript" type="Node" unique_id=1089597926]
+script = ExtResource("1_o8kc5")
+array = [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]

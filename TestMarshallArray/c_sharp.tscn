@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://dxug8e3npirve"]
+
+[ext_resource type="Script" uid="uid://d0e0ustfpyfcc" path="res://TestMarshallArray/TestMarshallArrayCS.cs" id="1_km8hq"]
+
+[node name="CSharp" type="Node" unique_id=1706163693]
+script = ExtResource("1_km8hq")
+Array = [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]

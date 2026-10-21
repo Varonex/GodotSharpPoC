@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cl5k3nv6d013g"]
+
+[ext_resource type="Script" uid="uid://ceoie44n80pxq" path="res://TestMarshallDict/TestMarshallDictCS.cs" id="1_os67b"]
+
+[node name="CSharp" type="Node" unique_id=1706163693]
+script = ExtResource("1_os67b")

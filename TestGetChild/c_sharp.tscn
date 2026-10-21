@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cy07uef6fp5tk"]
+
+[ext_resource type="Script" uid="uid://cfbmt70fd8f54" path="res://TestGetChild/TestGetChildCS.cs" id="1_pl0c6"]
+
+[node name="CSharp" type="Node" unique_id=1825648225]
+script = ExtResource("1_pl0c6")
+
+[node name="0" type="Node2D" parent="." unique_id=1633776155]

@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cp82vspccp3x4"]
+
+[ext_resource type="Script" uid="uid://mcvoffyels1h" path="res://TestGetChild/test_get_child_gd.gd" id="1_bf7op"]
+
+[node name="GDScript" type="Node" unique_id=1825648225]
+script = ExtResource("1_bf7op")
+
+[node name="0" type="Node2D" parent="." unique_id=1207430941]

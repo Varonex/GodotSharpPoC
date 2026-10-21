@@ -1,0 +1,7 @@
+[gd_scene format=4 uid="uid://d3tiheoagnd6w"]
+
+[ext_resource type="Script" uid="uid://ume8207ubeiu" path="res://TestMarshallPacked/TestMarshallPackedCS.cs" id="1_ot2ve"]
+
+[node name="CSharp" type="Node" unique_id=1706163693]
+script = ExtResource("1_ot2ve")
+Packed = PackedByteArray("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==")

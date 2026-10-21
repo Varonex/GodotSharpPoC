@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://bkb02gvcim8dn"]
+
+[ext_resource type="Script" uid="uid://dniuhou3hdpdb" path="res://TestMarshallDict/test_marshall_dict_gd.gd" id="1_8b7lp"]
+
+[node name="GDScript" type="Node" unique_id=1089597926]
+script = ExtResource("1_8b7lp")

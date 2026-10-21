@@ -1,0 +1,44 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="GodotSharp"
+config/features=PackedStringArray("4.7", "C#", "Forward Plus")
+config/icon="res://icon.svg"
+
+[display]
+
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[dotnet]
+
+project/assembly_name="GodotSharp_"
+
+[file_customization]
+
+folder_colors={
+"res://TestConnection/": "green",
+"res://TestGetChild/": "red",
+"res://TestInstantiate/": "green",
+"res://TestMarshallArray/": "green",
+"res://TestMarshallDict/": "green",
+"res://TestMarshallPacked/": "green",
+"res://TestPositionChange/": "red"
+}
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+rendering_device/driver.windows="d3d12"

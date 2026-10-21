@@ -1,0 +1,7 @@
+[gd_scene format=4 uid="uid://caaev8lnbjw7o"]
+
+[ext_resource type="Script" uid="uid://blkhv6s0u8r2j" path="res://TestMarshallPacked/test_marshall_packed_gd.gd" id="1_ocfkp"]
+
+[node name="GDScript" type="Node" unique_id=1089597926]
+script = ExtResource("1_ocfkp")
+packed = PackedByteArray("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==")

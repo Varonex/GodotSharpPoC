@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c16i7t5ljm2ex"]
+
+[ext_resource type="Script" uid="uid://bx8r2o4cb8vab" path="res://TestConnection/TestConnectionCS.cs" id="1_hibyb"]
+
+[node name="CSharp" type="Node" unique_id=1389977685]
+script = ExtResource("1_hibyb")

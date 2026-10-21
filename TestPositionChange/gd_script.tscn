@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://c2i3627hwf4bo"]
+
+[ext_resource type="Script" uid="uid://bp2txja2bg3wi" path="res://TestPositionChange/test_position_gd.gd" id="1_bkxmx"]
+
+[node name="GDScript" type="Node2D" unique_id=248201249]
+
+[node name="s" type="Node" parent="." unique_id=1696068289 node_paths=PackedStringArray("target")]
+script = ExtResource("1_bkxmx")
+target = NodePath("..")
